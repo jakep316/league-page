@@ -1,18 +1,34 @@
 /*   STEP 1   */
-export const leagueID = "1180196549494157312"; // your league ID
-export const leagueName = "12 man Dynasty"; // your league name
+export const leagueID = "1317572882246680576"; // your league ID
+export const leagueName = "Ye Olde Dynasty League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Ye Olde Dynasty League<br>Est. Anno Domini 2026</p>
+  <p>In the year of our gridiron Lord two-thousand and six-and-twenty, when the scrolls of fantasy were yet fresh and the waiver wire ran wild as the moors, a solemn covenant was forged among honorable (and occasionally treacherous) lords of the realm.</p>
+  <p>Thus was born Ye Olde Dynasty League — a most ancient and enduring fellowship where bloodlines (and trade offers) pass through generations, rosters are kept through famine and feast, and only the most cunning managers may claim eternal glory.</p>
+  <p>Here be no fleeting redraft piffle.<br>
+We speak of true dynasty — where ye keep thy young squires, thy aging knights, and thy prized warhorses through many a season. Rosters are vast, benches deep, and the wounds of poor trades scar forever.</p>
+  <p>Shouldst thou draft wisely, trade shrewdly, and hoard thy future picks like a dragon guards its hoard, thy name shall be sung by bards for ages.<br>
+Shouldst thou blunder… thy lineage shall be mocked in the tavern group chat until the end of days.Rules of the Realm (briefly proclaimed):</p>
+  <p><b>Rules of the Realm (briefly proclaimed):</b>
+  <ul>
+  <li>Deep dynasty roster (TBD — but expect many a bench spot)</li>
+<li>Rookie drafts most solemn & important</li>
+<li>Trades may be cutthroat (beware the dagger in the back)</li>
+<li>No mercy for the weak of wallet or will</li>
+</ul>
+</p>
+<p>So raise thy goblet (or energy drink), pledge thy allegiance, and enter the lists, noble commissioner and valiant GMs alike.</p>
+<p><b>Ye Olde Dynasty League —</b> where legends are born, dynasties endure, and someone will inevitably try to trade their entire future for Jonathan Taylor in year 9.
+
+</p>
+<p>Long may ye reign.<br><i>Scribe this upon the sacred Sleeper parchment in the year 2026.</i>
+
+</p>
 `;
 
 /*   STEP 3   */
